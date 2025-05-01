@@ -1,7 +1,7 @@
 # Analysis of country_wise_latest.csv
 ## Five Number Summary
-Confirmed | Deaths | Recovered | ... | Confirmed last week | 1 week change | 1 week % increase
-|---|---|---|---|---|---|---|
+|  | Confirmed | Deaths | Recovered | ... | Confirmed last week | 1 week change | 1 week % increase
+|---|---|---|---|---|---|---|---|
 count | 187.000 | 187.000 | 187.000 | ... | 187.000 | 187.000 | 187.000
 mean | 88130.936 | 3497.519 | 50631.481 | ... | 78682.476 | 9448.456 | 13.606
 std | 383318.664 | 14100.002 | 190188.190 | ... | 338273.677 | 47491.128 | 24.510
