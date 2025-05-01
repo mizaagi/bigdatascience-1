@@ -10,6 +10,7 @@ min | 10.000 | 0.000 | 0.000 | ... | 10.000 | -47.000 | -3.840
 50% | 5059.000 | 108.000 | 2815.000 | ... | 5020.000 | 432.000 | 6.890
 75% | 40460.500 | 734.000 | 22606.000 | ... | 37080.500 | 3172.000 | 16.855
 max | 4290259.000 | 148011.000 | 1846641.000 | ... | 3834677.000 | 455582.000 | 226.320
+
 The most important takeaway from this data table is that COVID cases, at the time when this information was found, were still increasing worldwide at an average of 13 percent per week.
 
 ## Correlation of WHO Region and Deaths/100 Cases
